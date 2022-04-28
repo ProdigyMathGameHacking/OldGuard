@@ -5,7 +5,7 @@ config.json
 *.log
 
 # NodeJS/npm modules
-/node_modules/
+node_modules/
 
 # Extension Private Key files
 *.pem
