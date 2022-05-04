@@ -1,5 +1,5 @@
 {
-  "name": "OldGuard",
+  "name": "oldguard",
   "version": "2.1.9",
   "description": "The outdated hack GUI for Prodigy Math Game.",
   "main": "index.js",
